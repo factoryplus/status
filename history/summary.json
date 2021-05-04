@@ -1,20 +1,20 @@
 [
   {
-    "name": "FactoryPlus",
+    "name": "FactoryPlus landing",
     "url": "https://factoryplus.in",
     "icon": "https://favicons.githubusercontent.com/factoryplus.in",
-    "slug": "factory-plus",
+    "slug": "factory-plus-landing",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   }
 ]
