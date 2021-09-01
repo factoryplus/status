@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 111,
-    "timeWeek": 122,
-    "timeMonth": 140,
+    "timeDay": 109,
+    "timeWeek": 121,
+    "timeMonth": 139,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2021-08-31": 8
@@ -25,18 +25,36 @@
     "icon": "https://favicons.githubusercontent.com/web.factoryplus.in",
     "slug": "factory-plus-web-app",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.81%",
     "uptimeDay": "99.47%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 787,
-    "timeDay": 794,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 787,
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 786,
+    "timeDay": 792,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2021-08-31": 8
     }
+  },
+  {
+    "name": "FactoryPlus API",
+    "url": "https://api.factoryplus.in",
+    "icon": "https://favicons.githubusercontent.com/api.factoryplus.in",
+    "slug": "factory-plus-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 780,
+    "timeDay": 780,
+    "timeWeek": 780,
+    "timeMonth": 780,
+    "timeYear": 780,
+    "dailyMinutesDown": {}
   }
 ]
