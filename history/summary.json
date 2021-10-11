@@ -24,9 +24,9 @@
     "url": "https://web.factoryplus.in",
     "icon": "https://favicons.githubusercontent.com/web.factoryplus.in",
     "slug": "factory-plus-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
@@ -36,6 +36,7 @@
     "timeMonth": 735,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2021-10-11": 0,
       "2021-09-17": 8,
       "2021-09-15": 7,
       "2021-08-31": 8
