@@ -4,9 +4,9 @@
     "url": "https://factoryplus.in",
     "icon": "https://favicons.githubusercontent.com/factoryplus.in",
     "slug": "factory-plus-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 95,
     "timeMonth": 115,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "FactoryPlus Web App",
