@@ -42,18 +42,19 @@
     "url": "https://api.factoryplus.in",
     "icon": "https://favicons.githubusercontent.com/api.factoryplus.in",
     "slug": "factory-plus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 740,
-    "timeDay": 834,
-    "timeWeek": 792,
-    "timeMonth": 788,
+    "timeDay": 826,
+    "timeWeek": 795,
+    "timeMonth": 789,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-23": 37
     }
   }
